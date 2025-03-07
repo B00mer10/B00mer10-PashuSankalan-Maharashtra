@@ -35,7 +35,7 @@ This Power BI dashboard helps understand the stray animal situation in Maharasht
 3. Use the interactive features (dropdown filters, KPI cards, charts) to explore the data.  
 
 ## Contributors  
-- **[Girish Sabale]** – Dashboard development and data analysis  
+- **Girish Sabale** – Dashboard development and data analysis  
 - **Ganesh Gangarde** – Support and guidance  
 - **Sachin Yadav** – Data insights and review  
 
